@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "id": 1,
-      "title": "The Anthropocene Reviewed",
-      "author": "John Green",
-      "genre": "Nonfiction"
-    },
-    {
       "id": 2,
       "title": "The Last Thing He Told Me",
       "author": "Laura Dave",
-      "genre" : "Thriller"
+      "genre": "Thriller"
+    },
+    {
+      "title": "Parry Hotter",
+      "author": "sss",
+      "genre": "Thriller",
+      "id": 6
     }
   ]
 }
